@@ -6,7 +6,7 @@ let nasionka = 1;
 
 function hello_my_friend() {
     console.log(document.getElementById("xd"));
-    document.getElementById("xd").textContent += " Twój komputer ma wirusa";
+    document.getElementById("xd").textContent += " Your Computer Has A Virus";
 }
 
 function kogut_johnson() {
